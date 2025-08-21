@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.hubspot.com)",
+      "WebSearch",
+      "WebFetch(domain:www.zamzam-technologies.com)",
+      "WebFetch(domain:www.zamzam-technologies.com)",
+      "mcp__ide__getDiagnostics"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
